@@ -5,7 +5,7 @@ ClimaMetrix is a real-time Power BI dashboard that delivers live weather and air
 
 **ClimaMetrix** is a dynamic, interactive **Power BI dashboard** powered by **WeatherAPI** to deliver **real-time weather forecasts, air quality monitoring, and in-depth trend analysis**.  
 It integrates **basic to advanced Power BI capabilities**—including DAX measures, custom visuals, and live API connections—to help users make informed, data-driven decisions.
-
+**Published live via Power BI Service, that delivers weather and air quality insights using advanced analytics and interactive visualizations.**
 ---
 
 ## 📊 Features
